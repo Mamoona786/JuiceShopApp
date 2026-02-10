@@ -1,0 +1,142 @@
+{
+  "categories": [
+    { "id": 1, "name": "Mango", "color": "#FFA000" },
+    { "id": 2, "name": "Kiwi", "color": "#388E3C" },
+    { "id": 3, "name": "Strawberry", "color": "#D32F2F" },
+    { "id": 4, "name": "Banana", "color": "#F57C00" },
+    { "id": 5, "name": "Grape", "color": "#7B1FA2" },
+    { "id": 6, "name": "Berry", "color": "#512DA8" },
+    { "id": 7, "name": "Apple", "color": "#EF5350" },
+    { "id": 8, "name": "Watermelon", "color": "#FF8A80" },
+    { "id": 9, "name": "Orange", "color": "#FFB74D" }
+
+  ],
+  "juices": [
+  {
+    "id": 1,
+    "name": "Mango Juice",
+    "category": "Mango",
+    "sizes": { "S": 100, "M": 150, "L": 200 },
+    "sizeImages": {
+      "S": "mango-small.jpeg",
+      "M": "mango-medium.jpeg",
+      "L": "mango-large.jpeg"
+    },
+    "color": "#FFA000",
+    "image": "mango.jpeg",
+    "popular": false
+  },
+  {
+    "id": 2,
+    "name": "Kiwi Juice",
+    "category": "Kiwi",
+    "sizes": { "S": 90, "M": 140, "L": 180 },
+    "sizeImages": {
+      "S": "kiwi-small.jpeg",
+      "M": "kiwi-medium.jpeg",
+      "L": "kiwi-large.jpeg"
+    },
+    "color": "#388E3C",
+    "image": "kiwi.jpeg",
+    "popular": false
+  },
+  {
+    "id": 3,
+    "name": "Strawberry Juice",
+    "category": "Strawberry",
+    "sizes": { "S": 100, "M": 140, "L": 180 },
+    "sizeImages": {
+      "S": "strawberry-small.jpeg",
+      "M": "strawberry-medium.jpeg",
+      "L": "strawberry-large.jpeg"
+    },
+    "color": "#D32F2F",
+    "image": "strawberry.jpeg",
+    "popular": true
+  },
+  {
+    "id": 4,
+    "name": "Banana Juice",
+    "category": "Banana",
+    "sizes": { "S": 80, "M": 120, "L": 180 },
+    "sizeImages": {
+      "S": "banana-small.jpeg",
+      "M": "banana-medium.jpeg",
+      "L": "banana-large.jpeg"
+    },
+    "color": "#F57C00",
+    "image": "banana.jpeg",
+    "popular": false
+  },
+  {
+    "id": 5,
+    "name": "Grape Juice",
+    "category": "Grape",
+    "sizes": { "S": 95, "M": 145, "L": 190 },
+    "sizeImages": {
+      "S": "grape-small.jpeg",
+      "M": "grape-medium.jpeg",
+      "L": "grape-large.jpeg"
+    },
+    "color": "#7B1FA2",
+    "image": "grape.jpeg",
+    "popular": true
+  },
+  {
+    "id": 6,
+    "name": "Mixed Berry Juice",
+    "category": "Berry",
+    "sizes": { "S": 110, "M": 160, "L": 210 },
+    "sizeImages": {
+      "S": "berry-small.jpeg",
+      "M": "berry-medium.jpeg",
+      "L": "berry-large.jpeg"
+    },
+    "color": "#512DA8",
+    "image": "berry.jpeg",
+    "popular": true
+  },
+  {
+    "id": 7,
+    "name": "Apple Juice",
+    "category": "Apple",
+    "sizes": { "S": 90, "M": 140, "L": 180 },
+    "sizeImages": {
+      "S": "apple-small.jpeg",
+      "M": "apple-medium.jpeg",
+      "L": "apple-large.jpeg"
+    },
+    "color": "#C62828",
+    "image": "apple.jpeg",
+    "popular": true
+  },
+  {
+    "id": 8,
+    "name": "Watermelon Juice",
+    "category": "Watermelon",
+    "sizes": { "S": 95, "M": 145, "L": 190 },
+    "sizeImages": {
+      "S": "watermelon-small.jpeg",
+      "M": "watermelon-medium.jpeg",
+      "L": "watermelon-large.jpeg"
+    },
+    "color": "#FF5252",
+    "image": "watermelon.jpeg",
+    "popular": true
+  },
+  {
+    "id": 9,
+    "name": "Orange Juice",
+    "category": "Orange",
+    "sizes": { "S": 100, "M": 150, "L": 200 },
+    "sizeImages": {
+      "S": "orange-small.jpeg",
+      "M": "orange-medium.jpeg",
+      "L": "orange-large.jpeg"
+    },
+    "color": "#FB8C00",
+    "image": "orange.jpeg",
+    "popular": true
+  }
+]
+}
