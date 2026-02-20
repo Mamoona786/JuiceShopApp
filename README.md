@@ -34,10 +34,9 @@ A modern **Juice Shop mobile app** built with **React Native** featuring smooth 
 
 ## 🛠️ Tech Stack
 
-- React Native  
-- JavaScript (ES6+)  
+- React Native   
 - React Navigation  
-- Expo / React Native CLI  
+- Expo CLI  
 
 ---
 
